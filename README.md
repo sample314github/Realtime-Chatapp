@@ -20,7 +20,7 @@ Clone the repository:
 
 bash
 Copy code
-git clone https://github.com/your-username/realtime-chat-app.git
+git clone (https://github.com/sample314github/Realtime-Chatapp.git)
 Install dependencies:
 
 For the backend:
